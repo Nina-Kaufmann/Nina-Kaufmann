@@ -1,16 +1,36 @@
-### Hi there 👋
+# Nina
 
-<!--
-**Nina-Kaufmann/Nina-Kaufmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Nina, a 22-year-old art and design enthusiast based in Switzerland. I'm deeply passionate about creating captivating digital artworks, although I also dabble in traditional mediums, such as canvas painting and drawing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on refining my digital art skills and exploring new creative techniques.
+- 🌱 I’m constantly learning new design trends and improving my skills to create visual experiences.
+- 💬 Ask me about digital art, logo design, or web assets.
+- 📫 How to reach me: [Email](Nina.Kaufmann@outlook.com.
+- 😄 Pronouns: She/Her.
+
+## About Me
+
+I'm currently studying art and design, aiming to integrate my creativity into modern digital landscapes. With a keen eye for aesthetics and a love for innovative design, I find joy in bringing visual stories to life.
+
+## Tech Stack
+
+- Adobe Creative Suite
+- Procreate
+- Figma
+- HTML/CSS (basic understanding)
+
+## Projects
+
+Here is my latest project:
+
+[Digital Art Portfolio]([Link to your digital art portfolio](https://nina-kaufmann.github.io/Eternal-Lovers.github.io/index.html))
+   - Description: A collection of digital paintings for a project themed around "Eternal Lovers"
+
+Feel free to reach out to me if you have any questions or ideas! 😊
+## My Stats
+Note: I'm not very active on github or as a developer in general.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nina-Kaufmann&theme=tokyonight)
+
+
