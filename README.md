@@ -8,7 +8,6 @@ I'm Nina, a 22-year-old art and design enthusiast based in Switzerland. I'm deep
 - 🌱 I’m constantly learning new design trends and improving my skills to create visual experiences.
 - 💬 Ask me about digital art, logo design, or web assets.
 - 📫 How to reach me: [Email](Nina.Kaufmann@outlook.com).
-- 😄 Pronouns: She/Her.
 
 ## About Me
 
