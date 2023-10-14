@@ -7,16 +7,17 @@ I'm Nina, a 22-year-old art and design enthusiast based in Switzerland. I'm deep
 - 🔭 I’m currently working on refining my digital art skills and exploring new creative techniques.
 - 🌱 I’m constantly learning new design trends and improving my skills to create visual experiences.
 - 💬 Ask me about digital art, logo design, or web assets.
-- 📫 How to reach me: [Email](Nina.Kaufmann@outlook.com.
+- 📫 How to reach me: [Email](Nina.Kaufmann@outlook.com).
 - 😄 Pronouns: She/Her.
 
 ## About Me
 
-I'm currently studying art and design, aiming to integrate my creativity into modern digital landscapes. With a keen eye for aesthetics and a love for innovative design, I find joy in bringing visual stories to life.
+I'm currently studying art and design, aiming to integrate my creativity into modern digital landscapes. I have a love for innovative design, and I find joy in bringing visual stories to life.
 
 ## Tech Stack
 
 - Adobe Creative Suite
+- Blender
 - Procreate
 - Figma
 - HTML/CSS (basic understanding)
@@ -25,7 +26,7 @@ I'm currently studying art and design, aiming to integrate my creativity into mo
 
 Here is my latest project:
 
-[Digital Art Portfolio]([Link to your digital art portfolio](https://nina-kaufmann.github.io/Eternal-Lovers.github.io/index.html))
+[Digital Art Portfolio]((https://nina-kaufmann.github.io/Eternal-Lovers.github.io/index.html))
    - Description: A collection of digital paintings for a project themed around "Eternal Lovers"
 
 Feel free to reach out to me if you have any questions or ideas! 😊
