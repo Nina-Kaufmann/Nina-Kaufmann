@@ -30,7 +30,7 @@ Here is my latest project:
 
 Feel free to reach out to me if you have any questions or ideas! 😊
 ## My Stats
-Note: I'm not very active on github or as a developer in general.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nina-Kaufmann&theme=tokyonight)
 
+Note: I'm not very active on github or as a developer in general.
 
