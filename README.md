@@ -26,12 +26,12 @@ I'm currently studying art and design, aiming to integrate my creativity into mo
 
 Here is my latest project:
 
-[Digital Art Portfolio]((https://nina-kaufmann.github.io/Eternal-Lovers.github.io/index.html))
+[Eternal Lovers](https://nina-kaufmann.github.io/Eternal-Lovers.github.io/index.html)
    - Description: A collection of digital paintings for a project themed around "Eternal Lovers"
 
 Feel free to reach out to me if you have any questions or ideas! 😊
 ## My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nina-Kaufmann&theme=tokyonight)
 
-Note: I'm not very active on github or as a developer in general.
+Note: I'm not very active on github and I'm not a developer.
 
