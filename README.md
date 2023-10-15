@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Nina, a 22-year-old art and design enthusiast based in Switzerland. I'm deeply passionate about creating captivating digital artworks, although I also dabble in traditional mediums, such as canvas painting and drawing.
+I'm Nina, a 22-year-old art and design student based in Switzerland. I'm very passionate about creating captivating digital artworks, although I also dabble in traditional mediums, such as canvas painting and drawing.
 
 - 🔭 I’m currently working on refining my digital art skills and exploring new creative techniques.
 - 🌱 I’m constantly learning new design trends and improving my skills to create visual experiences.
